@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "RGB Mouse",
+      "category": "Electronics",
+      "price": 1000,
+      "description": "Ergonomic wireless mouse with 2.4GHz connectivity and adjustable DPI.",
+      "image": "https://placehold.co/300x200?text=Wireless+Mouse",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "mechanical Keyboard",
+      "category": "Electronics",
+      "price": 2500,
+      "description": "RGB mechanical keyboard with responsive keys, suitable for gaming and programming.",
+      "image": "https://placehold.co/300x200?text=Keyboard",
+      "stock": 15,
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "name": "Bluetooth Headphones",
+      "category": "Audio",
+      "price": 1800,
+      "description": "Comfortable over-ear headphones with wireless connectivity and a built-in microphone.",
+      "image": "https://placehold.co/300x200?text=Headphones",
+      "stock": 20,
+      "rating": 4.3
+    },
+    {
+      "id": "4",
+      "name": "Smart Watch",
+      "category": "Wearables",
+      "price": 3200,
+      "description": "Smart watch featuring activity tracking, heart-rate monitoring, and call notifications.",
+      "image": "https://placehold.co/300x200?text=Smart+Watch",
+      "stock": 12,
+      "rating": 4.4
+    },
+    {
+      "id": "5",
+      "name": "USB-C Fast Charger",
+      "category": "Accessories",
+      "price": 650,
+      "description": "Compact USB-C charger designed for fast and convenient device charging.",
+      "image": "https://placehold.co/300x200?text=Fast+Charger",
+      "stock": 30,
+      "rating": 4.6
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "price": 550,
+      "description": "A practical guide to building good habits, breaking bad ones, and making small improvements every day.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "rating": 4.8,
+      "stock": 20,
+      "publishedYear": 2018
+    },
+    {
+      "id": "2",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 350,
+      "description": "A young shepherd travels in search of treasure and discovers lessons about dreams and destiny.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg",
+      "rating": 4.6,
+      "stock": 15,
+      "publishedYear": 1988
+    },
+    {
+      "id": "3",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 450,
+      "description": "Explores financial literacy, investing, and different ways of thinking about money.",
+      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
+      "rating": 4.5,
+      "stock": 12,
+      "publishedYear": 1997
+    },
+    {
+      "id": "4",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 850,
+      "description": "A software development guide focused on writing readable, maintainable, and well-organized code.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "rating": 4.7,
+      "stock": 8,
+      "publishedYear": 2008
+    },
+    {
+      "id": "5",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 500,
+      "description": "Short stories about how human behavior influences financial decisions, wealth, and investing.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+      "rating": 4.7,
+      "stock": 18,
+      "publishedYear": 2020
+    }
+  ]
+}
